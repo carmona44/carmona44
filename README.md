@@ -1,5 +1,5 @@
 # Hello 👋, my name is Daniel 
-### Junior Full-stack developer in [WeFish - The most complete Fishing App](https://wefish.app/) 🐟
+### Junior Full-stack developer on [WeFish - The most complete Fishing App](https://wefish.app/) 🐟
 
 I'm a professional software developer since October 2019.
 
