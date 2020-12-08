@@ -1,15 +1,26 @@
-# Hello 👋, my name is Daniel 
+# Hello 👋, my name is Daniel
 ### Junior Full-stack developer on [WeFish - The most complete Fishing App](https://wefish.app/) 🐟
+(*Léeme en [Español](https://github.com/carmona44/carmona44/blob/main/LEEME.md)*)
 
-I'm a professional software developer since October 2019.
+I'm a professional software developer since October 2019, although I have been programming in my free time since I finished my studies in 2017.
 
-(Better description coming soon...)
+My professional career began in one of the great consulting firms in Spain (with a lot of international presence) but a few months later I knew the startup ecosystem which has always seemed more attractive to me, with its good things and its not so good things, and it adapts better to the person that I am today and to the concerns that surround me in this initial stage.
+
+At the same time, I like to continue increasing my knowledge in my free time to be a better professional in the future and to be able to develop my own projects.
+
+I also spend a lot of time doing sports, especially cycling, pádel and hiking since I like to be in shape, it helps to deal with problems and clear my mind and spend time in nature. In addition, I have competed and compete in some of them and that has made me adopt certain skills that otherwise would have been more difficult to achieve, such as teamwork and the desire to improve.
+
 
 ## JOBS:
 - 🐟 WeFish ➡️ since April 2020
 - Everis ➡️ October 2019 / April 2020
 
 ## SKILLS:
+I like to follow the motto:
+>Use the **TECHNOLOGIES** that help you to achieve the **GOAL**.
+
+And here are the ones I use the most today:
+
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-0B1DFF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
@@ -24,7 +35,8 @@ I'm a professional software developer since October 2019.
 </br>
 [![Visual Studio](https://img.shields.io/badge/VisualStudioCode-0066B8?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()
 </br>
-And learning others like Flutter and more...
+
+And learning others like Flutter and more ...
 
 ## ATTITUDES & APTITUDES: 
 - Positive ✌️
