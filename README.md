@@ -1,5 +1,5 @@
-# Hello 👋, my name is Daniel
-### Full-stack developer on [WeFish - The most complete Fishing App](https://wefish.app/) 🐟
+# Hello 👋, my name is Daniel 
+### Full-stack developer on [WeFish - The most complete Fishing App](https://wefish.app/) 🐟 
 (*Léeme en [Español](https://github.com/carmona44/carmona44/blob/main/LEEME.md)*)
 
 I'm a professional software developer since October 2019, although I have been programming in my free time since I finished my studies in 2017.
@@ -10,10 +10,13 @@ At the same time, I like to continue increasing my knowledge in my free time to 
 
 I also spend a lot of time doing sports, especially cycling, pádel and hiking since I like to be in shape, it helps to deal with problems and clear my mind and spend time in nature. In addition, I have competed and compete in some of them and that has made me adopt certain skills that otherwise would have been more difficult to achieve, such as teamwork and the desire to improve.
 
+</br>
 
 ## JOBS:
 - 🐟 WeFish ➡️ since April 2020
 - Everis ➡️ October 2019 / April 2020
+
+</br>
 
 ## SKILLS:
 I like to follow the motto:
@@ -38,6 +41,8 @@ And here are the ones I use the most today:
 
 And learning others like Flutter and more ...
 
+</br>
+
 ## ATTITUDES & APTITUDES: 
 - Positive ✌️
 - Proactive 💪
@@ -45,8 +50,22 @@ And learning others like Flutter and more ...
 - Good with numbers and spatial vision 🔢
 - Don't give up, always look for a solution 😏
 
+</br>
+
 ## FIND ME AT:
 [![Twitter](https://img.shields.io/badge/Twitter-@carmona44-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Carmona44)
 [![Instagram](https://img.shields.io/badge/Instagram-@carmona44-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/carmona44/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Carmona-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-carmona-alarc%C3%B3n-46045ab1/)
 [![Strava](https://img.shields.io/badge/Strava-Daniel_Carmona-fc5200?style=for-the-badge&logo=strava&logoColor=white&labelColor=101010)](https://www.strava.com/athletes/6878230)
+
+</br>
+
+## STATS
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=carmona44&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmona44&show_icons=true&locale=en&layout=compact" alt="carmona44" /></p>
+
+<p>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api?username=carmona44&show_icons=true&locale=en" alt="carmona44" /></p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carmona44&label=Profile%20views&color=0e75b6&style=flat" alt="carmona44" /> </p>
