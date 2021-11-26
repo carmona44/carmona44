@@ -64,8 +64,10 @@ And learning others like Flutter and more ...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=carmona44&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmona44&show_icons=true&locale=en&layout=compact" alt="carmona44" /></p>
+<p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmona44&show_icons=true&locale=en&layout=compact&theme=algolia" alt="carmona44" /></p>
 
-<p>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api?username=carmona44&show_icons=true&locale=en" alt="carmona44" /></p>
+<p>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api?username=carmona44&show_icons=true&locale=en&theme=algolia" alt="carmona44" /></p>
+
+</br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carmona44&label=Profile%20views&color=0e75b6&style=flat" alt="carmona44" /> </p>
