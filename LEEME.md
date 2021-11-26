@@ -10,10 +10,14 @@ Paralelamente, me gusta seguir aumentando conocimientos en mi tiempo libre para 
 
 También dedico mucho tiempo a hacer deporte, sobre todo ciclismo, pádel y senderismo puesto que me gusta estar en forma, ayuda a afrontar problemas y a despejar la mente y a pasar tiempo en la naturaleza. Además, he competido y compito en algunos de ellos y eso me ha hecho adoptar ciertas habilidades que de otra manera habría sido más difícil de conseguir como es el trabajo en equipo y el afán de mejora.
 
+</br>
+
 
 ## TRABAJOS:
 - 🐟 WeFish ➡️ desde abril 2020
 - Everis ➡️ octubre 2019 / abril 2020
+
+</br>
 
 ## HABILIDADES:
 Me gusta seguir el lema:
@@ -38,6 +42,8 @@ Y aquí van los que más uso actualmente:
 
 Y aprendiendo otros como Flutter y más ...
 
+</br>
+
 ## ACTITUDES Y APTITUDES: 
 - Positivo ✌️
 - Proactivo 💪
@@ -45,8 +51,24 @@ Y aprendiendo otros como Flutter y más ...
 - Bueno con los números y la visión espacial 🔢
 - No me gusta tirar la toalla, siempre en busca de una solución 😏
 
+</br>
+
 ## ENCUENTRAME EN:
 [![Twitter](https://img.shields.io/badge/Twitter-@carmona44-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Carmona44)
 [![Instagram](https://img.shields.io/badge/Instagram-@carmona44-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/carmona44/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Carmona-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-carmona-alarc%C3%B3n-46045ab1/)
 [![Strava](https://img.shields.io/badge/Strava-Daniel_Carmona-fc5200?style=for-the-badge&logo=strava&logoColor=white&labelColor=101010)](https://www.strava.com/athletes/6878230)
+
+</br>
+
+## ESTADÍSTICAS
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=carmona44&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmona44&show_icons=true&locale=es&layout=compact&theme=algolia" alt="carmona44" /></p>
+
+<p><img height="170" src="https://github-readme-stats.vercel.app/api?username=carmona44&show_icons=true&locale=es&theme=algolia" alt="carmona44" /></p>
+
+</br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=carmona44&label=Profile%20views&color=0e75b6&style=flat" alt="carmona44" /> </p>
