@@ -14,7 +14,7 @@ También dedico mucho tiempo a hacer deporte, sobre todo ciclismo, pádel y send
 
 
 ## TRABAJOS:
-- 🐟 WeFish ➡️ desde abril 2020
+- 🐟 WeFish ➡️ abril 2020 / enero 2022
 - Everis ➡️ octubre 2019 / abril 2020
 
 </br>
