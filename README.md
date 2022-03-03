@@ -13,7 +13,7 @@ I also spend a lot of time doing sports, especially cycling, pádel and hiking s
 </br>
 
 ## JOBS:
-- 🐟 WeFish ➡️ since April 2020
+- 🐟 WeFish ➡️ April 2020 / January 2022
 - Everis ➡️ October 2019 / April 2020
 
 </br>
