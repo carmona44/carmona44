@@ -13,6 +13,7 @@ I also spend a lot of time doing sports, especially cycling, pádel and hiking s
 </br>
 
 ## JOBS:
+- <img src="https://cryptoavatars.io./assets/images/favicon.png" alt="CryptoAvatars" width="20"/> CryptoAvatars ➡️ since September 2022
 - 🐟 WeFish ➡️ April 2020 / January 2022
 - Everis ➡️ October 2019 / April 2020
 
