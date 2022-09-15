@@ -14,6 +14,7 @@ También dedico mucho tiempo a hacer deporte, sobre todo ciclismo, pádel y send
 
 
 ## TRABAJOS:
+- <img src="https://cryptoavatars.io./assets/images/favicon.png" alt="CryptoAvatars" width="25"/> CryptoAvatars ➡️ desde septiembre 2022
 - 🐟 WeFish ➡️ abril 2020 / enero 2022
 - Everis ➡️ octubre 2019 / abril 2020
 
