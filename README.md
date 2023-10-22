@@ -13,9 +13,9 @@ I also spend a lot of time doing sports, especially cycling, pádel and hiking s
 </br>
 
 ## JOBS:
-- Backend Developer on <img src="https://vipe.io/favicon.ico" alt="VIPE" width="20"/> VIPE - Virtual Persona ➡️ since April 2023
-- Backend Developer on <img src="https://cryptoavatars.io/assets/images/favicon.webp" alt="CryptoAvatars" width="20"/> CryptoAvatars ➡️ since September 2022
-- Backend Developer on 🐟 WeFish ➡️ April 2020 / January 2022
+- Backend Developer at <img src="https://vipe.io/favicon.ico" alt="VIPE" width="20"/> VIPE - Virtual Persona ➡️ since April 2023 🟢
+- Backend Developer at <img src="https://cryptoavatars.io/assets/images/favicon.webp" alt="CryptoAvatars" width="20"/> CryptoAvatars ➡️ since September 2022 🟢
+- Backend Developer at 🐟 WeFish ➡️ April 2020 / January 2022
 - Junior Software Developer on Everis ➡️ October 2019 / April 2020
 
 </br>
