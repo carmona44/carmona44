@@ -14,9 +14,10 @@ También dedico mucho tiempo a hacer deporte, sobre todo ciclismo, pádel y send
 
 
 ## TRABAJOS:
-- <img src="https://cryptoavatars.io./assets/images/favicon.png" alt="CryptoAvatars" width="25"/> CryptoAvatars ➡️ desde septiembre 2022
-- 🐟 WeFish ➡️ abril 2020 / enero 2022
-- Everis ➡️ octubre 2019 / abril 2020
+- Backend Developer en <img src="https://vipe.io/favicon.ico" alt="VIPE" width="20"/> VIPE - Virtual Persona ➡️ desde abril 2023 🟢
+- Backend Developer en <img src="https://cryptoavatars.io/assets/images/favicon.webp" alt="CryptoAvatars" width="20"/> CryptoAvatars ➡️ desde septiembre 2022 🟢
+- Backend Developer en 🐟 WeFish ➡️ abril 2020 / enero 2022
+- Junior Software Developer en Everis ➡️ octubre 2019 / abril 2020
 
 </br>
 
