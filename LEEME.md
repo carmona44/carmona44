@@ -1,5 +1,5 @@
 # Hola 👋, me llamo Daniel
-### Desarrollador de software
+### Problem Solver | Software Developer
 (*Readme in [English](https://github.com/carmona44/carmona44/blob/main/README.md)*)
 
 Me dedico al desarrollo de software profesionalmente desde octubre de 2019 aunque llevo programando en mi tiempo libre desde que terminé mis estudios en 2017.
