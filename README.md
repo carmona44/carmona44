@@ -1,5 +1,5 @@
 # Hello 👋, my name is Daniel 
-### Software developer
+### Problem Solver | Software developer
 (*Léeme en [Español](https://github.com/carmona44/carmona44/blob/main/LEEME.md)*)
 
 I'm a professional software developer since October 2019, although I have been programming in my free time since I finished my studies in 2017.
