@@ -1,4 +1,4 @@
-# Hello 👋, my name is Daniel 
+# Hello 👋, I'm Daniel 
 ### Problem Solver | Software developer
 (*Léeme en [Español](https://github.com/carmona44/carmona44/blob/main/LEEME.md)*)
 
