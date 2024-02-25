@@ -13,8 +13,8 @@ I also spend a lot of time doing sports, especially cycling, pádel and hiking s
 </br>
 
 ## JOBS:
-- Backend Developer at <img src="https://vipe.io/favicon.ico" alt="VIPE" width="20"/> VIPE & CryptoAvatars ➡️ since September 2022 🟢
-- Backend Developer at 🐟 WeFish ➡️ April 2020 / January 2022
+- Backend Developer at <img src="https://vipe.io/favicon.ico" alt="VIPE" width="20"/> [VIPE & CryptoAvatars](https://vipe.io/) ➡️ since September 2022 🟢
+- Backend Developer at 🐟 [WeFish](https://play.google.com/store/apps/details?id=com.inup.wefish&hl=es&gl=US) ➡️ April 2020 / January 2022
 - Junior Software Developer on Everis ➡️ October 2019 / April 2020
 
 </br>
