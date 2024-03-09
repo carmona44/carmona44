@@ -26,6 +26,7 @@ I also spend a lot of time doing sports, especially cycling, pádel and hiking s
 
 I like to follow the motto:
 
+> [!TIP]
 > Use the **TECHNOLOGIES** that help you to achieve the **GOAL**.
 
 And here are the ones I use the most today:

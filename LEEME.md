@@ -26,6 +26,7 @@ También dedico mucho tiempo a hacer deporte, sobre todo ciclismo, pádel y send
 
 Me gusta seguir el lema:
 
+> [!TIP]
 > Usar los **MEDIOS** que te ayuden a alcanzar un **OBJETIVO**.
 
 Y aquí van los que más uso actualmente:
