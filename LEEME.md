@@ -16,8 +16,9 @@ También dedico mucho tiempo a hacer deporte, sobre todo ciclismo, pádel y send
 
 ## TRABAJOS:
 
-- Backend Developer en <img src="https://vipe.io/favicon.ico" alt="VIPE" width="20"/> [VIPE & CryptoAvatars](https://vipe.io/) ➡️ desde septiembre 2022 🟢
-- Backend Developer en 🐟 [WeFish](https://play.google.com/store/apps/details?id=com.inup.wefish&hl=es&gl=US) ➡️ abril 2020 / enero 2022
+- Backend Developer en [Accountable](https://www.accountable.eu/) ➡️ desde junio 2024 🟢
+- Backend Developer en VIPE & CryptoAvatars ➡️ septiembre 2022 / marzo 2024
+- Backend Developer en [WeFish](https://play.google.com/store/apps/details?id=com.inup.wefish&hl=es&gl=US) ➡️ abril 2020 / enero 2022
 - Junior Software Developer en Everis ➡️ octubre 2019 / abril 2020
 
 </br>
